@@ -63,7 +63,7 @@ In this section we will see, How to access UART using Python.
 
 Pyserial provides backend for serial communication using python. The module named ‘serial’ selects appropriate backend automatically.  To install pySerial, by using following command.
 
-sudo apt-get install python-serial
+`sudo apt-get install python-serial`
 
 Now the module serial can be imported to python by using ‘import serial‘.
 Example Program
